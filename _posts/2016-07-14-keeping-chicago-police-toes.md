@@ -18,6 +18,3 @@ A total of 172 different people submitted requests to the board, but a few repea
 <iframe src="https://docs.google.com/spreadsheets/d/1p-9UBatzQZq5aH8TETOsvPhAympmDPPiKh0Wz5TXtR4/pubchart?oid=1963739230&amp;format=interactive"></iframe>
 
 Skimming these data for notable names is interesting, but I've been obsessing lately over how individuals relate to the organizations they comprise, so I decided to use pivot tables to count the 86 unique organizations listed in the FOIA request log. (More than a quarter of the requests had no organization listed.) The Chicago Tribune came out on top with 33 requests; second-place finisher Chicago Sun-Times had 25, and the Chicago Justice Project fell to third with 22.
-
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/eS9vBshE3Xg" frameborder="0" allowfullscreen></iframe>
