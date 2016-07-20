@@ -1,0 +1,27 @@
+---
+layout: post
+
+title: Sad graphics.
+description: Some graphics are sadly uninformative; others are informative, sadly.
+
+author: Steven Porter
+email: stevenporter2016@u.northwestern.edu
+twitter: reporterporter
+---
+
+## Data visualization is storytelling, whether intentional or otherwise
+
+Scrolling through my Twitter feed yesterday, I came to a post by Bloomberg and halted. The tweet contained a chart that showed stock prices plummeting over a hair-raising cliff, with the question, "Is 'Star Wars' played out for Hasbro?"
+
+I lingered and noted the ominous next line: "Putting Away the Toys." Inhaling just enough air to blurt, "Think of the children!" I halted again, recalling recent data visualization lessons still fresh in mind from the digital frameworks course.
+
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Is &quot;Star Wars&quot; played out for Hasbro? <a href="https://t.co/M43iNFiG2K">https://t.co/M43iNFiG2K</a> <a href="https://t.co/yNA1lhuY7E">pic.twitter.com/yNA1lhuY7E</a></p>&mdash; Bloomberg (@business) <a href="https://twitter.com/business/status/755125027184504837">July 18, 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+It's not until I read the thirdmost-prominent line of text that the chart's meaning came into focus. Hasbro shares fell as much as 7 percent in intraday trading Monday. Oh, that's bad. But it's not the cataclysmic ralph-inducing rollercoaster ride I'd been expecting.
+
+Instead of beginning at $0 per share, the y-axis begins at $79 and ends at $86, dramatically exaggerating the slope of the downward trend in Hasbro's valuation. It's understandable that Bloomberg would find this chart more compelling than one with a y-axis from $0 to $86, but the more compelling version isn't supported by the story. As a news consumer, this feels like clickbait. (Perhaps the headline should read, "You Won't Believe How Far Hasbro $$tock Plummeted Today!")
+
+Perhaps the sneakier issue with this graphic is in its x-axis. Prices are holding steady between $85 and $86 per share until suddenly the floor falls out from underneath them. What the chart fails to mention is that there was a weekend between the holding-steady and the plummeting. Share prices were $85-86 on Friday, then they dropped dramatically Monday morning after a two-day trading hiatus. If the chart were showing price trends over recent weeks, months or longer, then marking the weekends and holidays would be entirely unnecessary; in this case, however, when we're looking at just two days of trading, it seems like that gap is key information we're missing.
+
+Clearly, Bloomberg's target audience is savvy enough to read this chart properly the first time. But there are lessons here for all visual storytellers, especially those of us targeting a more general audience. Although zooming in on the y-axis by limiting its range can make the newsworthy movement more obvious, it can also prove misleading by telling an exaggerated tale. It's important to remember that charts like this one are meant to convey meaning found in the relationship between two data points — in this case time and stock price — so we should ask ourselves whether omitting seemingly irrelevant segments of the x-axis might impede a consumer's understanding of that relationship.
