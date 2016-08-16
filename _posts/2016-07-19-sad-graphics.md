@@ -36,7 +36,7 @@ In the lede to his <a href="http://www.nytimes.com/2016/07/20/upshot/hillary-cli
 
 That seems simple enough, right? Perhaps. But Katz made the wise move to take things a step further with his next sentence:
 
-<blockquote>A victory by Mr. Trump remains quite possible: Mrs. Clinton’s chance of losing is about the same probability that an N.B.A. player will miss a free throw.<blockquote>
+<blockquote>A victory by Mr. Trump remains quite possible: Mrs. Clinton’s chance of losing is about the same probability that an N.B.A. player will miss a free throw.</blockquote>
 
 Even though I don't care about basketball in the least, I find that illustration entirely relatable. I understand that pro players tend to make their free throws, but it's not a surefire thing. The word picture works.
 
