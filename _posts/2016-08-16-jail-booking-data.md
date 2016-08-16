@@ -1,3 +1,14 @@
+---
+layout: post
+
+title: Pulling and parsing daily jail booking data
+description: Feeling a bit nostalgic about my days as a local crime reporter
+
+author: Steven Porter
+email: stevenporter2016@u.northwestern.edu
+twitter: reporterporter
+---
+
 Before returning to school, I was a crime and justice reporter in Lafayette, Indiana, where I reviewed the latest booking records at the Tippecanoe County Jail each morning (and many afternoons).
 
 The ritual unveiled more than a few daily news stories, including the wholly unexpected <a href="http://www.jconline.com/story/news/crime/2015/07/11/church-music-pastor-arrested-voyeurism/30013533/">Saturday-morning story about a local music pastor's arrest</a> for alleged voyeurism with a camera.
@@ -8,7 +19,7 @@ Thanks, however, to import.io (a data extraction tool I'm learning to use throug
 
 If I were to learn <a href="http://www.computerworld.com/article/2469616/business-intelligence/business-intelligence-79661-how-to-create-an-automatically-updating-spreadsheet.html#slide9">some additional coding</a>, I could teach that spreadsheet to automatically store historical data each morning as well. For the time being, though, I'm going to focus on a couple of one-day bulk-data questions I wasn't able to easily answer during my stint as a crime reporter.
 
-# Question 1: How long have these people been in jail?
+# How long have these people been in jail?
 
 There are all sorts of deadlines police and prosecutors must meet to keep a suspect in custody, so it's always helpful to know where each defendant stands in that process. Although it's relatively easy to pluck any single booking report from the list and mentally calculate how long he or she has been in jail, I wanted to know how many days have elapsed since each and every inmate was booked.
 
