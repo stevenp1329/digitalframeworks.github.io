@@ -13,7 +13,7 @@ twitter: reporterporter
 
 Scrolling through my Twitter feed yesterday, I came to a post by Bloomberg and halted. The tweet contained a chart that showed stock prices plummeting over a hair-raising cliff, with the question, "Is 'Star Wars' played out for Hasbro?"
 
-I lingered and noted the ominous next line: "Putting Away the Toys." Inhaling just enough air to blurt, "Think of the children!" I halted again, recalling recent data visualization lessons still fresh in mind from the digital frameworks course.
+I lingered and noted the ominous next line: "Putting Away the Toys." Inhaling just enough air to blurt, "Think of the children!" I halted again, recalling recent data visualization lessons still fresh in mind from the digital frameworks course I'm taking.
 
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Is &quot;Star Wars&quot; played out for Hasbro? <a href="https://t.co/M43iNFiG2K">https://t.co/M43iNFiG2K</a> <a href="https://t.co/yNA1lhuY7E">pic.twitter.com/yNA1lhuY7E</a></p>&mdash; Bloomberg (@business) <a href="https://twitter.com/business/status/755125027184504837">July 18, 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
