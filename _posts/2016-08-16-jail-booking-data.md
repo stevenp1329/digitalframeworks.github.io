@@ -35,6 +35,6 @@ More than a month but less than three months? 129 or 30 percent. More than three
 
 That pivot table enabled me to visualize the jail population's length of incarceration with a histogram:
 
-<iframe src="https://docs.google.com/spreadsheets/d/1_im6MN9_WptdgaxaER_47mtD9d1lL-I20hd4OMBBWBM/pubhtml?gid=1401009722&amp;single=true&amp;widget=true&amp;headers=false"></iframe>
+<iframe src="https://docs.google.com/spreadsheets/d/1_im6MN9_WptdgaxaER_47mtD9d1lL-I20hd4OMBBWBM/pubhtml?gid=1401009722&amp;single=true&amp;widget=true&amp;headers=false" width="650" height="400"></iframe>
 
 
