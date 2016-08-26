@@ -19,7 +19,7 @@ So I imported the spreadsheet <a href="
 https://docs.google.com/a/u.northwestern.edu/spreadsheets/d/100nBryY-g4BN3lvTQeLi_dfZMGURlHVbVimNz7H0WZg/edit?usp=sharing
 ">into Google Sheets</a> and ran a scatter plot then a linear regression comparing my two columns:
 
-<iframe src="https://docs.google.com/spreadsheets/d/100nBryY-g4BN3lvTQeLi_dfZMGURlHVbVimNz7H0WZg/pubchart?oid=195274335&amp;format=interactive"></iframe>
+<iframe src="https://docs.google.com/spreadsheets/d/100nBryY-g4BN3lvTQeLi_dfZMGURlHVbVimNz7H0WZg/pubchart?oid=195274335&amp;format=interactive" width="650" height="400"></iframe>
 
 As expected, the regression line confirmed the correlation: months with more flights saw more passengers, too. (This, of course, doesn't demonstrate which variable, if either, caused the other.)
 
